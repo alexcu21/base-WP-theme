@@ -1,2 +1,2 @@
 # base-WP-theme
-Base theme for Wordpress.
+My first Base theme for Wordpress.
